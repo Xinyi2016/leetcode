@@ -2,7 +2,7 @@
 
 This repo contains my solutions in Go with the code style strictly follows the [Google Golang Style Guide](https://github.com/golang/go/wiki/CodeReviewComments). 
 
-I’m looking for study buddies to solve Leetcode challenges together and discuss solutions. Please star this repo or [comment](https://www.facebook.com/groups/578993226906503/) to support if you are interested. Thank you!
+I’m looking for study buddies to solve Leetcode challenges together and discuss solutions. Please star this repo or join [Slack group](https://join.slack.com/t/gouae/shared_invite/zt-1b0mpymmo-l2xucCV_DI2xSmv~Byx6dg) to support if you are interested. Thank you!
 
 
 ### Test out solutions
