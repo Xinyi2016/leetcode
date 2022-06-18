@@ -8,8 +8,9 @@ I’m looking for study buddies to solve Leetcode challenges together and discus
 
 Week 24, 2022:
 
-- [ ] [1162. As Far from Land as Possible
-](leetcode/1162.As-Far-from-Land-as-Possible/maxDistance_test.go)
+- [x] [1162. As Far from Land as Possible](leetcode/1162.As-Far-from-Land-as-Possible/maxDistance_test.go)
+- [x] [417. Pacific Atlantic Water Flow](leetcode/417.Pacific-Atlantic-Water-Flow/pacificAtlantic_test.go)
+- [ ] [1091. Shortest Path in Binary Matrix](leetcode/1091.Shortest-Path-in-Binary-Matrix/shortestPathBinaryMatrix_test.go)
 
 ### Test out solutions
 
