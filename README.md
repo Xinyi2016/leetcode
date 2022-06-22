@@ -12,6 +12,7 @@ Week 25, 2022:
 - [x] [417. Pacific Atlantic Water Flow](leetcode/417.Pacific-Atlantic-Water-Flow/pacificAtlantic_test.go)
 - [x] [1091. Shortest Path in Binary Matrix](leetcode/1091.Shortest-Path-in-Binary-Matrix/shortestPathBinaryMatrix_test.go)
 - [ ] [542. 01 Matrix](leetcode/542.01-Matrix/updateMatrix_test.go)
+- [ ] [934. Shortest Bridge](leetcode/934.Shortest-Bridge/shortestBridge_test.go)
 
 
 ### Test out solutions
