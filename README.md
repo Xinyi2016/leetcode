@@ -13,6 +13,9 @@ Week 25, 2022:
 - [x] [1091. Shortest Path in Binary Matrix](leetcode/1091.Shortest-Path-in-Binary-Matrix/shortestPathBinaryMatrix_test.go)
 - [ ] [542. 01 Matrix](leetcode/542.01-Matrix/updateMatrix_test.go)
 - [ ] [934. Shortest Bridge](leetcode/934.Shortest-Bridge/shortestBridge_test.go)
+- [x] [315. Count of Smaller Numbers After Self](leetcode/315.Count-of-Smaller-Numbers-After-Self/countSmaller_test.go)
+    - [ ] merge sort solution
+    - [x] [BIT](https://github.com/halfrost/LeetCode-Go/blob/master/leetcode/0315.Count-of-Smaller-Numbers-After-Self/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.go)
 
 
 ### Test out solutions
