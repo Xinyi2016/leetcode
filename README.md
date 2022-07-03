@@ -6,17 +6,11 @@ I’m looking for study buddies to solve Leetcode challenges together and discus
 
 ### My study plan
 
-Week 25, 2022:
+Week 27, 2022:
 
-- [x] [1162. As Far from Land as Possible](leetcode/1162.As-Far-from-Land-as-Possible/maxDistance_test.go)
-- [x] [417. Pacific Atlantic Water Flow](leetcode/417.Pacific-Atlantic-Water-Flow/pacificAtlantic_test.go)
-- [x] [1091. Shortest Path in Binary Matrix](leetcode/1091.Shortest-Path-in-Binary-Matrix/shortestPathBinaryMatrix_test.go)
 - [ ] [542. 01 Matrix](leetcode/542.01-Matrix/updateMatrix_test.go)
 - [ ] [934. Shortest Bridge](leetcode/934.Shortest-Bridge/shortestBridge_test.go)
-- [x] [315. Count of Smaller Numbers After Self](leetcode/315.Count-of-Smaller-Numbers-After-Self/countSmaller_test.go)
-    - [ ] merge sort solution
-    - [x] [BIT](https://github.com/halfrost/LeetCode-Go/blob/master/leetcode/0315.Count-of-Smaller-Numbers-After-Self/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.go)
-
+- [x] [70. Climbing Stairs](leetcode/70.Climbing-Stairs/countSmaller_test.go)
 
 ### Test out solutions
 
