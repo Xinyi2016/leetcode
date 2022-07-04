@@ -9,7 +9,7 @@ I’m looking for study buddies to solve Leetcode challenges together and discus
 Week 27, 2022:
 
 - [ ] [542. 01 Matrix](leetcode/542.01-Matrix/updateMatrix_test.go)
-- [ ] [934. Shortest Bridge](leetcode/934.Shortest-Bridge/shortestBridge_test.go)
+- [x] [934. Shortest Bridge](leetcode/934.Shortest-Bridge/shortestBridge_test.go)
 - [x] [70. Climbing Stairs](leetcode/70.Climbing-Stairs/countSmaller_test.go)
 
 ### Test out solutions
