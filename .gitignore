@@ -14,3 +14,13 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 .DS_Store
+
+# Dependency directory
+node_modules
+
+# ignore package-lock.json
+package-lock.json
+
+slowBuild.sh
+ts.txt
+go.txt

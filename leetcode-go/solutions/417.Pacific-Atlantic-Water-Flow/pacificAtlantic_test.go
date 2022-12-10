@@ -15,7 +15,6 @@ var dir = []struct{ x, y int }{
 	{0, -1},
 }
 
-// TODO
 func pacificAtlantic(heights [][]int) [][]int {
 	pVisited := make([][]bool, len(heights))
 	aVisited := make([][]bool, len(heights))

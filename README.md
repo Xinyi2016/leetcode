@@ -1,11 +1,17 @@
-# leetcode-go
+Welcome to my modest corner of learning data structures and algorithms.
 
-This repo contains 21 Leetcode solutions in Go with the code style strictly follows the [Google Golang Style Guide](https://github.com/golang/go/wiki/CodeReviewComments). 
+This repo contains 23 Leetcode solutions in a test-driven approach.
 
-I’m looking for study buddies to solve Leetcode challenges together and discuss solutions. Please star this repo to support if you are interested. Thank you!
-
-### Test out solutions
+## leetcode-ts
 
 ```sh
-go test -timeout 10s -run ^TestFloodFill$ -v ./leetcode/733.Flood-Fill/
+cd leetcode-ts/
+npm run test
+```
+
+## leetcode-go
+
+```sh
+cd leetcode-go/
+go test -timeout 30s ./solutions/...
 ```
