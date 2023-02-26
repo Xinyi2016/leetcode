@@ -1,6 +1,6 @@
 Welcome to my modest corner of learning data structures and algorithms.
 
-This repo contains 25 Leetcode solutions in a test-driven approach.
+This repo contains 26 Leetcode solutions in a test-driven approach.
 
 ## leetcode-ts
 
